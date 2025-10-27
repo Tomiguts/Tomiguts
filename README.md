@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  Soy Tomas / Tomiguts  </h1> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tomas-gutierrez-muñoz-004840308/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tomiguts"/></a>
+<a href="https://www.linkedin.com/in/tomiguts/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tomiguts"/></a>
 <a href = "mailto:tmfattal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Tomiguts"  /></a>
   </p>
 <br>
@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,react,figma,py,css,html,js,nodejs,mysql,firebase,git,github,docker,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
